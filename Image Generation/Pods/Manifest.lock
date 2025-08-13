@@ -1,0 +1,24 @@
+PODS:
+  - DropDown (2.3.13)
+  - IQKeyboardManager (6.5.19)
+  - lottie-ios (4.5.1)
+
+DEPENDENCIES:
+  - DropDown
+  - IQKeyboardManager
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - IQKeyboardManager
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  IQKeyboardManager: c8665b3396bd0b79402b4c573eac345a31c7d485
+  lottie-ios: 248b380fa1b97d18e792c37d90da7ab2aa0d6562
+
+PODFILE CHECKSUM: 53fb3041b4250b0c2c333246d85478634e03d596
+
+COCOAPODS: 1.16.2
